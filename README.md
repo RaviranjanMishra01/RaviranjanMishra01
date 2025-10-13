@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAVIRANJAN MISHRA</h1>
-<h3 align="center">A passionate siftware engineer devloper from india</h3>
+<h3 align="center">A passionate software engineer devloper from india</h3>
 <img align=""center" alt="coding" width="700" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviranjanmishra01&label=Profile%20views&color=0e75b6&style=flat" alt="raviranjanmishra01" /> </p>
