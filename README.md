@@ -1,24 +1,56 @@
-<h1 align="center">Hi 👋, I'm RAVIRANJAN MISHRA</h1>
-<h3 align="center">A passionate software engineer devloper from india</h3>
-<img align=""center" alt="coding" width="700" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif" alt="">
+<div align="center">
+<h1> Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> <br>I'm <strong>Raviranjan Kumar</strong> </h1>
+<p><i>Frontend Developer</i></p>
+<a href="https://www.linkedin.com/in/ravi-ranjan-mishra-9919b2310"> <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
+<a href="https://github.com/RaviranjanMishra01"> <img src="https://img.shields.io/badge/GitHub-GitHub-24283B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>
+</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RaviranjanMishra01&style=for-the-badge&color=24283B" alt="Profile Views" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raviranjanmishra01&label=Profile%20views&color=0e75b6&style=flat" alt="raviranjanmishra01" /> </p>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px"> About Me
 
-- 🌱 I’m currently learning **React,js**
+I'm a passionate Frontend Developer focused on building fast, responsive, and modern UIs. Always learning, always growing, and always building something new.
 
-- 📫 How to reach me **raviranjanmishra767@gmail.com**
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px"> Skills & Technologies
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</div>
 
-- ⚡ Fun fact **I am so funny 😁**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub Analytics
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaviranjanMishra01&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaviranjanMishra01&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaviranjanMishra01&theme=tokyo-night&hide_border=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px"> Achievements
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raviranjanmishra01&show_icons=true&locale=en&layout=compact" alt="raviranjanmishra01" /></p>
+## ✅ Certificates
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raviranjanmishra01&show_icons=true&locale=en" alt="raviranjanmishra01" /></p>
+<div align="left">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raviranjanmishra01&" alt="raviranjanmishra01" /></p>
+### 🎓 **Responsive Web Design** – freeCodeCamp  
+🔗 [View Certificate](https://www.freecodecamp.org/certification/raviranjankumar01/responsive-web-design)
+
+### 🎓 **React (Basic)** – HackerRank  
+   📋 Certificate ID: `CCICEF36712F`
+
+</div>
+
+
+## 📫 Contact Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ravi-ranjan-mishra-9919b2310">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/RaviranjanMishra01">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
