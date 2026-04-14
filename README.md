@@ -8,8 +8,7 @@
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px"> About Me
 
-**MERN Stack Developer** building fast, scalable, and modern web applications.  
-Skilled in **React, Node.js, Express, and MongoDB** with a focus on responsive UI and efficient backend systems.  Passionate about writing clean code and continuously improving with best practices.
+**MERN Stack Developer** building fast, scalable, and modern web applications. Skilled in **React, Node.js, Express, and MongoDB** with a focus on responsive UI and efficient backend systems. Passionate about writing clean code and continuously improving with best practices.
 
 ## 🛠️ Skills & Technologies
 
