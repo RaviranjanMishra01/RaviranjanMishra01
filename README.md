@@ -1,6 +1,6 @@
 <div align="center">
 <h1> Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> <br>I'm <strong>Raviranjan Kumar</strong> </h1>
-<p><i>Frontend Developer</i></p>
+<p><i>Full Stack Developer</i></p>
 <a href="https://www.linkedin.com/in/ravi-ranjan-mishra-9919b2310"> <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
 <a href="https://github.com/RaviranjanMishra01"> <img src="https://img.shields.io/badge/GitHub-GitHub-24283B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>
 </div>
@@ -8,14 +8,29 @@
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px"> About Me
 
-I'm a passionate Frontend Developer focused on building fast, responsive, and modern UIs. Always learning, always growing, and always building something new.
+**MERN Stack Developer** building fast, scalable, and modern web applications.  
+Skilled in **React, Node.js, Express, and MongoDB** with a focus on responsive UI and efficient backend systems.  Passionate about writing clean code and continuously improving with best practices.
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px"> Skills & Technologies
+## 🛠️ Skills & Technologies
+
+### 🎨 Frontend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,redux,html,css" />
+</div>
+
+### ⚙️ Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman" />
+</div>
+
+### 🔧 Tools & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode" />
+</div>
+
+### ☁️  Integration
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=npm,vite" />
 </div>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub Analytics
