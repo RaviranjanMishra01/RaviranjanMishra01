@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> <br>I'm <strong>Raviranjan Kumar</strong> </h1>
+<h1> Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> <br>I'm <strong>Raviranjan Mishra</strong> </h1>
 <p><i>Full Stack Developer</i></p>
 <a href="https://www.linkedin.com/in/ravi-ranjan-mishra-9919b2310"> <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
 <a href="https://github.com/RaviranjanMishra01"> <img src="https://img.shields.io/badge/GitHub-GitHub-24283B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>
